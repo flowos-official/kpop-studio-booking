@@ -8,6 +8,7 @@ import { Music, Menu, X } from 'lucide-react'
 
 const navigation = [
   { name: '공간 둘러보기', href: '/spaces' },
+  { name: '예약 캘린더', href: '/calendar' },
   { name: '아티스트', href: '/artists' },
   { name: '대시보드', href: '/dashboard' },
 ]
